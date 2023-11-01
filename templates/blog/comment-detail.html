@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <article>
+    <h1>{{ object.title }}</h1>
+    <p>작성자: {{ object.author }}</p>
+    <p>작성 일시: {{ object.created_at }}</p>
+    <p>내용: {{ object.content }}</p>
+  </article>
+{% endblock %}
