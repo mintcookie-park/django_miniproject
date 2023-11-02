@@ -31,4 +31,7 @@ mysite/
 ![DBio](https://github.com/mintcookie-park/django_miniproject/assets/79849531/22d95a53-f908-4d31-8c49-7ec3a56cb28e)
 
 
-# 
+# URL 구조
+
+
+# 개발하면서 느낀 점
