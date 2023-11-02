@@ -24,3 +24,11 @@ mysite/
 
 ├── tutorialdjango
 
+# 개발 기간
+2023.10.26 ~ 2023.11.07
+
+# DB 구조
+![DBio](https://github.com/mintcookie-park/django_miniproject/assets/79849531/22d95a53-f908-4d31-8c49-7ec3a56cb28e)
+
+
+# 
