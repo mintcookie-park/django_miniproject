@@ -18,11 +18,11 @@ Django, Python, HTML, CSS를 활용한 블로그 개발 프로젝트입니다.
     * 태그 : 각 게시글의 태그를 통해 어떤 분류인지 파악 및 검색 가능
 
   * 요구사항
-    * 0단계 : Django Admin을 활용한 게시글 읽기 및 메인 페이지 구현
-    * 1단계 : 블로그 CRUD 기능 구현
-    * 2단계 : 로그인/회원가입 기능 구현
-    * 3단계 : 블로그 기능 외 추가 기능 구현
-    
+    * 0단계 : Django Admin을 활용한 게시글 읽기 및 메인 페이지 구현 ☑
+    * 1단계 : 블로그 CRUD 기능 구현 ☑
+    * 2단계 : 로그인/회원가입 기능 구현 ☑
+    * 3단계 : 블로그 기능 외 추가 기능 구현 ☑ (댓글, 대댓글, 태그 기능 구현)
+     
 ## 개발 기술 및 환경
    
     [FE]
@@ -139,6 +139,7 @@ Django, Python, HTML, CSS를 활용한 블로그 개발 프로젝트입니다.
   
   ![PasswordChange](https://github.com/mintcookie-park/django_miniproject/assets/79849531/491fc064-cd72-4ab0-8179-6a4225d7886f)
 
+  ![Register](https://github.com/mintcookie-park/django_miniproject/assets/79849531/fda65a51-50fd-421a-bb80-6be558520240)
 
   ### 블로그 글 목록 화면
 
