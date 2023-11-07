@@ -105,7 +105,28 @@ django를 활용한 블로그 개발 프로젝트입니다.
     * 댓글 기능
     * 이미지 추가
     * 조회수
-    
+
+## 프로젝트 실행 결과물
+
+  실행 시 처음 화면
+  
+  ![Home](https://github.com/mintcookie-park/django_miniproject/assets/79849531/387b0ebb-80e4-4339-abb9-335238eff714)
+
+  블로그의 설명 화면
+  
+  ![About](https://github.com/mintcookie-park/django_miniproject/assets/79849531/a5b8a4cf-ef7c-468f-bf5d-ad2737d9c6dc)
+
+  블로그 글 작성 및 댓글 작성 화면
+  
+  ![Blog](https://github.com/mintcookie-park/django_miniproject/assets/79849531/d35a8ff8-61b6-4d0a-9b9a-262d4c078d79)
+
+
+  프로필 설정 및 비밀번호 재설정 화면
+  
+  ![Profile](https://github.com/mintcookie-park/django_miniproject/assets/79849531/54db7cfa-c004-449f-ad6a-b44aa5a1c69b)
+
+
+
 ## 개발 인원
   
   박정훈
