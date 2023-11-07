@@ -1,10 +1,10 @@
-# django_miniproject
-Django, Python, HTML을 활용한 블로그 개발 프로젝트입니다.
+# BLOA(Django mini project)
+Django, Python, HTML, CSS를 활용한 블로그 개발 프로젝트입니다.
 
 ## 프로젝트 목표 및 배경
   의견 공유를 자유롭게 할 수 있는 포럼 형식의 블로그를 작성하고 싶어
   
-  제가 즐겨 하는 PC 게임인 로스트아크를 주제로 한정하여 로스트아크 블로그를 선정하였고
+  제가 즐겨 하는 PC 게임인 로스트아크로 한정하여 '로스트아크 블로그(이하 BLOA)'라는 주제를 선정하였고
   
   블로그 글을 작성하고 관련된 댓글 및 태그를 만들어 관련 주제에 대한 팁 및 의견 등을 공유하고
   
@@ -106,22 +106,22 @@ Django, Python, HTML을 활용한 블로그 개발 프로젝트입니다.
     * 이미지 추가
     * 조회수
 
-## 프로젝트 실행 결과물
+## 프로젝트 기능 실행 결과
 
-  실행 시 처음 화면
+  ### 실행 시 처음 화면
   
   ![Home](https://github.com/mintcookie-park/django_miniproject/assets/79849531/387b0ebb-80e4-4339-abb9-335238eff714)
 
-  블로그의 설명 화면
+  ### 블로그의 설명 화면
   
   ![About](https://github.com/mintcookie-park/django_miniproject/assets/79849531/a5b8a4cf-ef7c-468f-bf5d-ad2737d9c6dc)
 
-  블로그 글 작성 및 댓글 작성 화면
+  ### 블로그 글 작성 및 댓글 작성 화면
   
   ![Blog](https://github.com/mintcookie-park/django_miniproject/assets/79849531/d35a8ff8-61b6-4d0a-9b9a-262d4c078d79)
 
 
-  프로필 설정 및 비밀번호 재설정 화면
+  ### 프로필 설정 및 비밀번호 재설정 화면
   
   ![Profile](https://github.com/mintcookie-park/django_miniproject/assets/79849531/54db7cfa-c004-449f-ad6a-b44aa5a1c69b)
 
