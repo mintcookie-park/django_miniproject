@@ -27,7 +27,7 @@ Django, Python, HTML, CSS를 활용한 블로그 개발 프로젝트입니다.
    
     [FE]
    
-    HTML5 CSS3 JAVASCRIPT
+    HTML5 CSS3
    
     [BE]
    
