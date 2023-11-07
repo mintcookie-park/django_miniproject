@@ -125,6 +125,26 @@ Django, Python, HTML, CSS를 활용한 블로그 개발 프로젝트입니다.
   
   ![Profile](https://github.com/mintcookie-park/django_miniproject/assets/79849531/54db7cfa-c004-449f-ad6a-b44aa5a1c69b)
 
+  ### 블로그 홈페이지 화면
+
+  ![Home](https://github.com/mintcookie-park/django_miniproject/assets/79849531/9be47f6b-9234-4271-819c-a3ceb47bfbe1)
+
+  ### 블로그 로그인/프로필 화면
+
+  ![Login](https://github.com/mintcookie-park/django_miniproject/assets/79849531/18081d81-1ca0-4f3e-8dd0-c4cbe297b790)
+
+  ![Profile1](https://github.com/mintcookie-park/django_miniproject/assets/79849531/25de9970-2cd9-42fb-9fe5-86744b751050)
+
+  ![Profile_edit](https://github.com/mintcookie-park/django_miniproject/assets/79849531/778308d7-bb32-40df-ad55-081f570529bb)
+  
+  ![PasswordChange](https://github.com/mintcookie-park/django_miniproject/assets/79849531/491fc064-cd72-4ab0-8179-6a4225d7886f)
+
+
+  ### 블로그 글 목록 화면
+
+  ![Blog](https://github.com/mintcookie-park/django_miniproject/assets/79849531/708c9e02-ab67-4ad1-b17a-e5203c48c52c)
+
+  ![Comment](https://github.com/mintcookie-park/django_miniproject/assets/79849531/5ca9d066-722f-46d7-b100-b7c6618e9d1f)
 
 
 ## 개발 인원
