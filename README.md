@@ -35,7 +35,7 @@ Django, Python, HTML, CSS를 활용한 블로그 개발 프로젝트입니다.
    
     [ENV]
    
-    VS STUDIO
+    VS Code
 
 ## 개발 기간
   2023.10.26 ~ 2023.11.07
